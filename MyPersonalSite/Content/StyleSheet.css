@@ -4,9 +4,11 @@
 }
 
 .title {
-    color: #696969;
+    color: #06a918;
 }
-
+.title-sidewrapper {
+    color: #000000;
+}
 a {
     color: #000000;
     font-weight: bold;
